@@ -1,0 +1,200 @@
+.head{
+	background-color: blue;
+}
+
+.alpha{
+	display: flex;
+}
+.a, .b {
+	flex-basis: 50%;
+
+}
+.a h1{
+	color: white;
+	position: relative;
+	left: 50px;
+}
+.b a{
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+}
+.b a:hover{
+	color: black;
+}
+.alpha2{
+	display: flex;
+}
+.c, .d {
+	flex-basis: 50%;
+
+}
+.c h2{
+	color: white;
+	position: relative;
+	left: 50px;
+	top: 50px;
+	font-size: 50px;
+}
+.c img{
+	height: 20px;
+	width: 20px;
+	background-color: white;
+	padding: 20px;
+	position: relative;
+	left: 300px;
+	
+
+}
+.c p{
+	position: relative;
+	left: 50px;
+	top: 50px;
+	color: white;
+	font-size: 20px;
+}
+.c h3{
+	position: relative;
+	left: 50px;
+	top: 100px;
+	font-size: 40px;
+	background-color: white;
+	width: 310px;
+	height: 60px;
+
+
+	
+}
+.d img{
+	height: 500px;
+	width: 500px;
+	border-radius: 300px;
+}
+
+
+.alpha3{
+	display: flex;
+
+
+
+	
+
+
+}
+.e {
+	flex-basis: 25%;
+	margin: 10px;
+	background-color: whitesmoke;
+	
+	height: 100px;
+
+}
+.e h1{
+	text-align: center;
+}
+.e p{
+	text-align: center;
+}
+
+.f {
+	flex-basis: 25%;
+	margin: 10px;
+	background-color: whitesmoke;
+	height: 100px;
+
+}
+.f h1{
+	text-align: center;
+}
+.f p{
+	text-align: center;
+}
+.g {
+	flex-basis: 25%;
+	margin: 10px;
+	background-color: whitesmoke;
+	
+	height: 100px;
+
+}
+.g h1{
+	text-align: center;
+}
+.g p{
+	text-align: center;
+}
+
+ .h{
+	flex-basis: 25%;
+	margin: 10px;
+	background-color: whitesmoke;
+	
+	height: 100px;
+
+}
+.h h1{
+	text-align: center;
+}
+.h p{
+	text-align: center;
+}
+.alpha4{
+	display: flex;
+}
+.i {
+	flex-basis: 50%;
+
+}
+.i img{
+	border-radius: 20%;
+	position: relative;
+	top: 30px;
+}
+.j{
+	flex-basis: 50%;
+}
+
+.head1{
+	display: flex;
+
+}
+.body{
+	flex-basis: 50%;
+
+}
+.body img{
+	height: 50px;
+	width: 50px;
+	border-radius: 40px;
+
+}
+.body2{
+	flex-basis: 50%;
+}
+.body2 img{
+	height: 50px;
+	width: 50px;
+	border-radius: 40px;
+
+}
+.head2{
+	display: flex;
+}
+.body3{
+	flex-basis: 50%;
+}
+.body3 img{
+	height: 50px;
+	width: 50px;
+	border-radius: 40px;
+
+}
+.body4{
+	flex-basis: 50%;
+}
+.body4 img{
+	height: 50px;
+	width: 50px;
+	border-radius: 40px;
+
+}
